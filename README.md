@@ -46,7 +46,8 @@ Seasonal Trends: Uncovered peak and low seasons for bookings and cancellations, 
 Hotel Type Insights: Provided clear comparisons between city hotels and resort hotels in terms of booking and cancellation behaviors, supporting targeted operational adjustments. 
 
 
-Impact
+Impact:
+
  The interactive dashboard has proven to be a crucial tool for the hotel’s management team. It offers real-time insights into booking patterns and cancellation trends, facilitating data-driven decision-making. The dashboard aids in developing strategies to reduce cancellations, optimize room inventory, and enhance overall guest satisfaction and revenue management.
 
 Dashboard
